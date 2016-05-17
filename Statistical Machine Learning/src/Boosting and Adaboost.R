@@ -1,4 +1,3 @@
-#Comment your name, UNI, class, assignment number, question number on the top page of EVERY .R file.
 #NAME: Sheng Zhang, UNI:sz2553, Class:STAT W4400, Assignment Number: HW #3
 #Question 1.Boosting(70 points)
 
